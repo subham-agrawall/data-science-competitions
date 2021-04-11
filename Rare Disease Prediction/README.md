@@ -8,7 +8,7 @@ This competition was conducted by ZS Associates. Detailed problem statement is p
 # Code Flow
 1. xgboost.py   
     Trained XGBoost model and created submissions.   
-    XGBoost model stored as a pickle file.
+    XGBoost model is stored as a pickle file.
 3. validation.py  
     Train data is split into train and validation datasets.   
     Cross validation ROC-AUC scores are calculated for all models i.e. XGBoost, Multinomial Naive Bayes and Gaussian Naive Bayes.   
