@@ -1,5 +1,5 @@
 # Rare Disease Prediction
-## ZS case study for Young Data Scientist 2017
+## ZS case study for Data Scientist Hiring 2017
 This competition was conducted by ZS Associates. Detailed problem statement is present in Problem Statement.pptx
 
 # 1st rank model
